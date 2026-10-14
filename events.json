@@ -1,0 +1,26 @@
+{
+  "season": 2027,
+  "discipline": "rhythmic gymnastics",
+  "source": "https://arenica.com/rg/competitions/2027",
+  "snapshot_date": "2026-10-14",
+  "events": [
+    {"dates": "2027-03-19..21", "name": "Queen Cup 2027", "city": "Lake Barrington", "country": "USA", "url": "https://arenica.com/rg/competitions/2027/queen-cup-2027/"},
+    {"dates": "2027-03-19..21", "name": "MA State Championship 2027", "city": "Middleton", "country": "USA", "url": "https://arenica.com/rg/competitions/2027/ma-state-championship-2027/"},
+    {"dates": "2027-03-25..28", "name": "LA Cup 2027 Grand Championships", "city": "Los Angeles", "country": "USA", "url": "https://arenica.com/rg/competitions/2027/la-cup-2027-grand-championships/"},
+    {"dates": "2027-03-26..28", "name": "Chicago Cup 2027", "city": "Woodridge", "country": "USA", "url": "https://arenica.com/rg/competitions/2027/chicago-cup-2027/"},
+    {"dates": "2027-03-26..28", "name": "Tamara Cup Palm Beach 2027", "city": "Palm Beach", "country": "USA", "url": "https://arenica.com/rg/competitions/2027/tamara-cup-palm-beach-2027/"},
+    {"dates": "2027-03-26..28", "name": "12th Aphrodite Cup", "city": "Faliro", "country": "Greece", "url": "https://arenica.com/rg/competitions/2027/12th-aphrodite-cup/"},
+    {"dates": "2027-04-09..11", "name": "World Cup Tashkent", "city": "Tashkent", "country": "Uzbekistan", "url": "https://arenica.com/rg/competitions/2027/world-cup-tashkent-2027/"},
+    {"dates": "2027-04-16..18", "name": "Spring Trophy", "city": "Antony", "country": "France", "url": "https://arenica.com/rg/competitions/2027/spring-trophy/"},
+    {"dates": "2027-04-23..25", "name": "World Cup Baku 2027", "city": "Baku", "country": "Azerbaijan", "url": "https://arenica.com/rg/competitions/2027/world-cup-baku-2027/"},
+    {"dates": "2027-05-12..16", "name": "European Championships", "city": "Pamplona", "country": "Spain", "url": "https://arenica.com/rg/competitions/2027/european-championships-pamplona-2027/"},
+    {"dates": "2027-05-28..30", "name": "World Cup Milan 2027", "city": "Milano", "country": "Italy", "url": "https://arenica.com/rg/competitions/2027/world-cup-milan-2027/"},
+    {"dates": "2027-06-03..06", "name": "Tbilisi Cup", "city": "Tbilisi", "country": "Georgia", "url": "https://arenica.com/rg/competitions/2027/tbilisi-cup/"},
+    {"dates": "2027-06-11..13", "name": "World Cup Sofia", "city": "Sofia", "country": "Bulgaria", "url": "https://arenica.com/rg/competitions/2027/world-cup-sofia-2027/"},
+    {"dates": "2027-06-19", "name": "City of Verbania", "city": "Verbania", "country": "Italy", "url": "https://arenica.com/rg/competitions/2027/city-of-verbania/"},
+    {"dates": "2027-06-23..27", "name": "Junior World Championships", "city": "Cluj-Napoca", "country": "Romania", "url": "https://arenica.com/rg/competitions/2027/junior-world-championships-cluj-napoca-2027/"},
+    {"dates": "2027-07-09..11", "name": "American Cup (Road to LA 2028)", "city": "Los Angeles", "country": "USA", "url": "https://arenica.com/rg/competitions/2027/american-cup-2027-road-to-la-2028-olympics/"},
+    {"dates": "2027-07-10..11", "name": "Caribbean Rhythmic Championship", "city": "Kingston", "country": "Jamaica", "url": "https://arenica.com/rg/competitions/2027/caribbean-rhythmic-championship-2027/"},
+    {"dates": "2027-09-15..19", "name": "World Championships", "city": "Baku", "country": "Azerbaijan", "url": "https://arenica.com/rg/competitions/2027/world-championships-baku-2027/"}
+  ]
+}
